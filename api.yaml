@@ -1,9 +1,1 @@
-providers:
-  - provider: 硅基流动 
-    base_url: https://api.siliconflow.cn/v1/chat/completions
-    api: 
-      - sk-qkczixlsfvstakxtfqhwybhenypjqlrmiuckjtyfrhdsxdux
-      - sk-neaboaanxzenuirdzettchhbtiwlajrarvqrjdoxhxujezhk
-api_keys:
-  - api: 4321 
 
